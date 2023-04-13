@@ -1,2 +1,5 @@
 numpy
 matplotlib
+jupyterlab
+h5py
+ipympl
