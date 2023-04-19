@@ -13,7 +13,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # input current
-I = 9999 # .25199 # nA
+I = .252 # .25199 # nA
 
 # capacitance and leak resistance
 C = 1  # nF
