@@ -3,6 +3,10 @@ matplotlib
 jupyterlab
 h5py
 ipympl
+matplotlib
+pydot
+graphviz
+scipy
 --index-url https://download.pytorch.org/whl/cu117
 torch
 torchvision
