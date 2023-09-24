@@ -6,7 +6,3 @@ matplotlib
 pydot
 graphviz
 scipy
---index-url https://download.pytorch.org/whl/cu117
-torch
-torchvision
-torchaudio
