@@ -167,5 +167,5 @@ def question9():
 
 
 if __name__ == "__main__":
-    # question6()
-    question9()
+    question6()
+    # question9()

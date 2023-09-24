@@ -1,2 +1,4 @@
 .idea
 *.pyc
+neural_data_analysis/
+.ipynb_checkpoints
